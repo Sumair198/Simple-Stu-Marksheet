@@ -19,11 +19,11 @@ else{
 }
 document.write("<br>");
 b= +prompt("Enter your Urdu Marks : ")
-if (a>=60 && a<100 )
+if (b>=60 && b<100 )
 {
     document.write('Urdu Marks Is :' + b + "Pass");
 }
-else if(a<60)
+else if(b<60)
 {
     document.write('Urdu Marks Is :' + b + "Fail");
 }
@@ -33,11 +33,11 @@ else{
 }
 document.write("<br>");
 c= +prompt("Enter your Chemistry Marks : ")
-if (a>=60 && a<100 )
+if (c>=60 && c<100 )
 {
     document.write('Chemistry Marks Is :' + c + "Pass");
 }
-else if(a<60)
+else if(c<60)
 {
     document.write('Chemistry Marks Is :' + c + "Fail");
 }
@@ -47,11 +47,11 @@ else{
 }
 document.write("<br>");
 d= +prompt("Enter your Physics Marks : ")
-if (a>=60 && a<100 )
+if (d>=60 && d<100 )
 {
     document.write('Physics Marks Is :' + d + "Pass");
 }
-else if(a<60)
+else if(d<60)
 {
     document.write('Physics Marks Is :' + d + "Fail");
 }
@@ -61,11 +61,11 @@ else{
 }
 document.write("<br>");
 e= +prompt("Enter your Math Marks : ")
-if (a>=60 && a<100 )
+if (e>=60 && e<100 )
 {
     document.write('Math Marks Is :' + e + "Pass");
 }
-else if(a<60)
+else if(e<60)
 {
     document.write('Math Marks Is :' + e + "Fail");
 }
